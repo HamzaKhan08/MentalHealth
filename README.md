@@ -1,7 +1,7 @@
 ## Health Horizons
 This project is Health Horizons web based application developed as part of the DEVCATION'24 project.
 
-# Description: This project is a web application for homemade food delivery. It allows users to place orders for homemade meals and for vendors to accept and manage those orders.
+# Description: This project is a web application for Mental health. It allows users to create account and published their blogs based on mental healths and even on any topics.
 
 # Prerequisites: Before running the webpage, ensure you have Node.js installed on your machine.
 
