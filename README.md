@@ -7,10 +7,10 @@
 
 Installation:
 
- Clone the repository to your local machine: git clone <repository_url>
- Navigate to the project directory: cd client & cd server (individually)
- Install dependencies: npm install
- Running the Webpage: npm start in your client terminal & npx nodemon in your server terminal
+ Clone the repository to your local machine: git clone <repository_url> <br>
+ Navigate to the project directory: cd client & cd server (individually) <br>
+ Install dependencies: npm install <br>
+ Running the Webpage: npm start in your client terminal & npx nodemon in your server terminal 
 
 Start the server by running the following command: npx nodemon
 Once the server is running, you should see a message indicating that the server is running on a specific port (e.g., Server running on port 5001).
